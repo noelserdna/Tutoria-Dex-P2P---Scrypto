@@ -1,3 +1,4 @@
+******CÓDIGO OBSOLETO V.0.2 SIN PATRONES DE DISEÑO*****
 # Tutoria-Dex-P2P---Scrypto
 Dex P2p (XRD/USD)
 ----------------------
